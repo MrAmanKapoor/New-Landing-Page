@@ -92,7 +92,7 @@ nav button {
 .header .mobile-div {
 
     width: 22%;
-    height: 45%;
+    height: 30%;
     top: 75%;
 }
 
@@ -109,7 +109,7 @@ nav button {
 }
 
 .header .btn2 {
-    left: 45%;
+    left: 50%;
 }
 
 /*--------Benifits CSS-------*/
@@ -169,7 +169,7 @@ nav button {
 }
 
 .screenshots .container {
-    height: 70vh;
+    height: 50vh;
 }
 
 .screenshots .container .card {
@@ -188,7 +188,7 @@ nav button {
     margin-top: 25vh;
     flex-basis: 25%;
     border-radius: 30px 0px;
-    height: 45%;
+    height: 40%;
 
 }
 
