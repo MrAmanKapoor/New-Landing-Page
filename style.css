@@ -324,7 +324,7 @@ label .fa-solid {
     top: 250vh;
     display: flex;
     justify-content: space-around;
-    background: rgba(0, 0, 0, 0.4) url(/Images/choose-us-bg.png);
+    background: rgba(0, 0, 0, 0.4) url(Images/choose-us-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
